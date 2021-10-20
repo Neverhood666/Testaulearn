@@ -5,9 +5,14 @@ public class HelloWorld {
         hello("world");
         hello("user");
 
-        double len = 5;
 
-        System.out.println(area(len));
+        Square s = new Square(5);
+
+
+        Rectangle r = new Rectangle(8,12);
+
+        System.out.println("квадрат " + area(s));
+        System.out.println("прямоугольник " + area(r));
 
         System.out.println(2 + 2);
         System.out.println(2 - 2);
@@ -19,8 +24,12 @@ public class HelloWorld {
             System.out.println("Hello, " + somebody);
         }
 
-    public static double area (double l){
-        return l*l;
+    public static double area (Square s){
+        return s.l * s.l;
+    }
+
+    public static double area (Rectangle r){
+        return r.a * r.b;
     }
 
 

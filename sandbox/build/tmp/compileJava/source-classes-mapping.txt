@@ -1,2 +1,6 @@
+test/move/Rectangle.java
+ test.move.Rectangle
 test/move/HelloWorld.java
  test.move.HelloWorld
+test/move/Square.java
+ test.move.Square
