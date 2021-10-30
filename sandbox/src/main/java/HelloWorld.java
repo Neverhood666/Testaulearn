@@ -1,4 +1,5 @@
-package test.move;
+import test.move.Rectangle;
+import test.move.Square;
 
 public class HelloWorld {
     public static void main(String[] args) {
@@ -19,6 +20,16 @@ public class HelloWorld {
         System.out.println(2 * 2);
         System.out.println(2 / 2);
         System.out.println(1.0 / 2);
+
+        System.out.println(Math.sqrt(4));
+
+
+            Point p1 = new Point(3,4);
+            Point p2 = new Point(-3,-4);
+
+            System.out.println("Расстояние между точками = " + distance( p1,p2));
+
+
     }
     public static void hello(String somebody) {
             System.out.println("Hello, " + somebody);
@@ -31,6 +42,13 @@ public class HelloWorld {
     public static double area (Rectangle r){
         return r.a * r.b;
     }
+
+    public static double distance(Point p1, Point p2) {
+        return Math.sqrt(Math.pow(p1.x-p2.x, 2)+Math.pow(p1.y-p2.y, 2));
+    }
+
+
+
 
 
 }
