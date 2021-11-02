@@ -1,1 +1,15 @@
 apply plugin: 'java'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // https://mvnrepository.com/artifact/org.testng/testng
+    annotationProcessor group: 'org.testng', name: 'testng', version: '7.0.0'
+    testCompile group: 'org.testng', name: 'testng', version: '7.0.0'
+}
+
+test {
+    useTestNG()
+}
