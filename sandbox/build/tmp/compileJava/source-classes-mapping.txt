@@ -2,9 +2,13 @@ Square.java
  Square
 Point.java
  Point
-HelloWorld.java
- HelloWorld
-Rectangle.java
- Rectangle
+headFirstJava/Test.java
+ headFirstJava.Test
 headFirstJava/Bottles.java
  headFirstJava.Bottles
+Rectangle.java
+ Rectangle
+headFirstJava/Shuffle1.java
+ headFirstJava.Shuffle1
+HelloWorld.java
+ HelloWorld
