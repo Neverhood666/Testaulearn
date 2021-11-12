@@ -12,3 +12,5 @@ headFirstJava/Shuffle1.java
  headFirstJava.Shuffle1
 HelloWorld.java
  HelloWorld
+headFirstJava/TestArrays.java
+ headFirstJava.TestArrays
