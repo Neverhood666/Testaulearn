@@ -1,20 +1,22 @@
-headFirstJava/TestArrays.java
- headFirstJava.TestArrays
+eulerProblems/Problem01.java
+ eulerProblems.Problem01
 Square.java
  Square
 Point.java
  Point
 headFirstJava/Test.java
  headFirstJava.Test
+headFirstJava/TestArrays.java
+ headFirstJava.TestArrays
 headFirstJava/Bottles.java
  headFirstJava.Bottles
 Rectangle.java
  Rectangle
 headFirstJava/Shuffle1.java
  headFirstJava.Shuffle1
+eulerProblems/Problem03.java
+ eulerProblems.Problem03
 HelloWorld.java
  HelloWorld
-headFirstJava/Triangle.java
- headFirstJava.Triangle
-eulerProblems/Problem01.java
- eulerProblems.Problem01
+eulerProblems/Problem02.java
+ eulerProblems.Problem02
