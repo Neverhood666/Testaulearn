@@ -1,3 +1,5 @@
+headFirstJava/TestArrays.java
+ headFirstJava.TestArrays
 Square.java
  Square
 Point.java
@@ -12,5 +14,7 @@ headFirstJava/Shuffle1.java
  headFirstJava.Shuffle1
 HelloWorld.java
  HelloWorld
-headFirstJava/TestArrays.java
- headFirstJava.TestArrays
+headFirstJava/Triangle.java
+ headFirstJava.Triangle
+eulerProblems/Problem01.java
+ eulerProblems.Problem01
